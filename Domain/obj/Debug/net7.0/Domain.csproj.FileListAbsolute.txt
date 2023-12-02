@@ -1,0 +1,11 @@
+D:\DotnetApps\JoyZone\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\DotnetApps\JoyZone\Domain\bin\Debug\net7.0\Domain.dll
+D:\DotnetApps\JoyZone\Domain\bin\Debug\net7.0\Domain.pdb
+D:\DotnetApps\JoyZone\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetApps\JoyZone\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\DotnetApps\JoyZone\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\DotnetApps\JoyZone\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\DotnetApps\JoyZone\Domain\obj\Debug\net7.0\Domain.dll
+D:\DotnetApps\JoyZone\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\DotnetApps\JoyZone\Domain\obj\Debug\net7.0\Domain.pdb
+D:\DotnetApps\JoyZone\Domain\obj\Debug\net7.0\ref\Domain.dll

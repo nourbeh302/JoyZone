@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DtT3kIMEGlJftG/2pe49O1HaR4+oqHl3ycUg+4/dbaoWyzrcHr0IVvAMQ1Locs3Juy/vgfMwCo5iEI7EH210Cg==",
+  "success": true,
+  "projectFilePath": "D:\\DotnetApps\\JoyZone\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\noure\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\noure\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
+    "C:\\Users\\noure\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.7.1\\fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "C:\\Users\\noure\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\noure\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\noure\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
